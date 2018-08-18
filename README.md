@@ -1,12 +1,12 @@
 # DockerDemo
 
-Using Docker, Docker Compose, Angular-CLI 6+
-Works for existing and new Angular-CLI applications
+Using Docker, Docker Compose, Angular-CLI 6+ <br />
+Works for existing and new Angular-CLI applications <br />
 Needs NodeJS 8+, Docker v18+ 
 
 ## Key changes:
-docker-compose.yml
-Dockerfile
+docker-compose.yml<br />
+Dockerfile<br />
 package.json :     "start": "ng serve --host 0.0.0.0 --poll=500"
 
 ## Development server
